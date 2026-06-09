@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pavan-2412.github.io/Maa-Khanduali-Tour-Travel/sitemap.xml
